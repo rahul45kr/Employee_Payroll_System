@@ -1,20 +1,21 @@
-# Registration Form
+# Employee Payroll System
 
-This is a simple registration form made with HTML, CSS, and JavaScript.  
-It lets users enter their details like name, email, password, and more.  
-It can also include basic validation to check if the inputs are correct.
+This is an Employee Payroll Management System built using **Java, Spring Boot, and MySQL** (or your chosen backend and database).  
+It helps store employee details, calculate salaries, and manage payroll records easily.
 
 ---
 
 ## Features
-- Input fields for user details (name, email, password, etc.)
-- Form validation for required fields
-- Clean and responsive design
-- Easy to customize for different uses
+- Add new employees
+- View employee details
+- Update employee records
+- Delete employees
+- Calculate and store salary details
+- Store data in a database
 
 ---
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- Java
+- Spring Boot
+- MySQL
